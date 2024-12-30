@@ -30,4 +30,11 @@ These are the questions on which I make programs.
     LANGUAG
     LANGUAGE
     20.To print "Hello World".
+
+##Status
+
+| Questions  | QBasic | Java | Python | Rust | Haskell | C++|
+| ------------- | ------------- |
+| 1  | :tick:  |
+| Content Cell  | Content Cell  |
     
