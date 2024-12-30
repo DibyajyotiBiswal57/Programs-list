@@ -22,11 +22,12 @@ These are the questions on which I make programs.
     18.To accept any number between 1 to 100 and print whether the number is a prime number or not.
     19.Read a name and display in a triangular pattern.
     For example,
-    Q
-    QB 
-    QBA 
-    QBAS 
-    QBASI 
-    QBASIC
+    L
+    LA
+    LAN
+    LANGU
+    LANGUA
+    LANGUAG
+    LANGUAGE
     20.To print "Hello World".
     
