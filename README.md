@@ -31,7 +31,7 @@ These are the questions on which I make programs.
     LANGUAGE
     20.To print "Hello World".
 
-##Status
+## Status
 
 | Questions  | QBasic | Java | Python | Rust | Haskell | C++|
 | ------------- | ------------- |
