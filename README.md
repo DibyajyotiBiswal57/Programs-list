@@ -2,8 +2,8 @@
 These are the questions on which I make programs.
 ## Write programs for the following tasks-
 
-    1.To calculate the sum of three numeric values.
-    2.To find the average of four subject marks.
+    1.To calculate the sum of three numeric values.  
+    2.To find the average of four subject marks.  
     3.To read two numbers and swap them using a third temporary variable.
     4.Find the area of rectangle, square and circle.
     5.To find the volume of sphere, cylinder, cone.
