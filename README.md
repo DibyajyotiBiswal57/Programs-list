@@ -40,7 +40,7 @@ These are the questions on which I make programs.
 
 # Status
 | Questions | QBasic | Java | Python | Rust | Haskell | C++ |
-|-|-|-|-|-|-|-|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |3.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
