@@ -5,7 +5,7 @@ These are the questions on which I make programs.
     1.To calculate the sum of three numeric values.  
     2.To find the average of four subject marks.  
     3.To read two numbers and swap them using a third temporary variable.
-    4.Find the area of rectangle, square, parallelogram, rhombus, trapezium and circle.
+    4.Find the area of rectangle, square, triangle, parallelogram, rhombus, trapezium and circle.
     5.To find the volume of sphere, cylinder, cone, cube and cuboid.
     6.Find simple interest and amount for entered principle, rate, and time.
     7.To display whether a number is positive or negative.
