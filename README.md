@@ -12,7 +12,7 @@ These are the questions on which I make programs.
     8.To accept two unequal numbers and display the greater of the two numbers. 
     9.To accept two numbers and if two numbers are equal then find the sum otherwise, their product.
     10.To enter two angles and check whether they are complementary, supplementary or neither.
-    11.To enter the cost price and the selling price of an article. Calculate the profit and profit percent or the loss and the loss percent.
+    11.Calculate the profit and profit percent or the loss and the loss percent on the given cost and selling prices.
     12.To print the natural numbers from 1 to (user defined number).
     13.To print even numbers from 0 to (user defined number).
     14.To print numbers from (user defined number) to 1 in descending order.
