@@ -32,9 +32,14 @@ These are the questions on which I make programs.
     LANGUAG
     LANGUAGE
     22.To print "Hello World".
+    23.To find the sum, difference, product of any 2 numbers.
+    24.To swap 2 numbers without using a third variable.
+    25.To find the perimeter of a square, rectangle, triangle, circle, parallelogram, trapezium.
+    26.To check if a person is eligible to vote or not.
+    27.To check if a person is a child or an adult.
 
 # Status
-| Questions | Qbasic | Java | Python | Rust | Haskell | C++ |
+| Questions | QBasic | Java | Python | Rust | Haskell | C++ |
 |-|-|-|-|-|-|-|
 |1.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -55,7 +60,13 @@ These are the questions on which I make programs.
 |17.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |18.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |19.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|20.| ✅ | ❌| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|21.| ✅ | ❌| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|20.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|21.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |22.| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+|23.| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|24.| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|25.| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|26.| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|27.| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
 
