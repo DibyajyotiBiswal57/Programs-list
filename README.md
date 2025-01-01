@@ -1,6 +1,4 @@
-# Program-questions
-These are the questions on which I make programs.
-## Write programs for the following tasks-
+# List of all the topics I make programs on-
 
     1.To calculate the sum of three numeric values.  
     2.To find the average of four subject marks.  
