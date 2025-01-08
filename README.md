@@ -37,8 +37,8 @@
     27.To check if a person is a child or an adult.
 
 # Status
-| Questions | QBasic | Java | Python | Rust | C | C++ | C# | Go | Haskell |
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Questions | QBasic | Java | Python | Rust | C | C++ | C# | Go | Haskell | Perl | Lua |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ | ❌ |
 |2.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ | ❌ |
 |3.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ | ❌ |
