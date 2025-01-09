@@ -41,7 +41,7 @@
     31.Write a program to check a three-digit number is a palindrome or not.
     32.Write a program to check if an entered year is a leap year or not.
     33.Write a program to check if a number is neon number or not. A neon number is a number that is either divisible by 9 or ends with 9.
-    34.Write a program to calculate the profit or loss based on the read cost price and selling price.
+    34.Write a guessing game.
     35.Write a program to calculate a 10% discount if the amount is above 10000 else a discount of 7.5%. Display the discount received and the final billing amount to be paid.
     36.Write a program in java to read three numbers and display the largest of the three numbers
     37.Write a program to read two numbers and display the smaller of the two.
@@ -86,7 +86,7 @@
 |31.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |32.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |33.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
-|34.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|34.| ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |35.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |36.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |37.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
@@ -94,6 +94,3 @@
 |39.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |40.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |41.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
-
-
-
