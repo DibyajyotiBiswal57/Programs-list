@@ -35,6 +35,20 @@
     25.To find the perimeter of a square, rectangle, triangle, circle, parallelogram, trapezium.
     26.To check if a person is eligible to vote or not.
     27.To check if a person is a child or an adult.
+    28.Write a program to check if a number if even or odd.
+    29.Write a program to check if a number is divisible by 7 or 3.
+    30. Write a program to check if the number id single digit, double digit number or more.
+    31.Write a program to check a three-digit number is a palindrome or not.
+    32.Write a program to check if an entered year is a leap year or not.
+    33.Write a program to check if a number is neon number or not. A neon number is a number that is either divisible by 9 or ends with 9.
+    34.Write a program to calculate the profit or loss based on the read cost price and selling price.
+    35.Write a program to calculate a 10% discount if the amount is above 10000 else a discount of 7.5%. Display the discount received and the final billing amount to be paid.
+    36.Write a program in java to read three numbers and display the largest of the three numbers
+    37.Write a program to read two numbers and display the smaller of the two.
+    38.Write a program to read a number and a character. If the character is ‘S’ display the square of the number. If the character is ‘C’ then display the cube of the number.
+    39.Write a program to read two numbers. If both numbers are even then display their sum else display their product.
+    40.Write a program to read a character and check if the character is a vowel or a consonant.
+    41.Write a program to read two numbers and a Boolean value. For Boolean true display the area and perimeter of a rectangle assuming the two numbers are the length and width. For a Boolean false calculate and display the surface area and volume of a cylinder assuming the parameters as height and radius of the cylinder.
 
 # Status
 | Questions | QBasic | Java | Python | Rust | C | C++ | C# | Go | Haskell | Perl |
@@ -66,5 +80,20 @@
 |25.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |26.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
 |27.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|28.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|29.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|30.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|31.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|32.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|33.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|34.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|35.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|36.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|37.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|38.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|39.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|40.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+|41.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |❌ | ❌ |
+
 
 
