@@ -49,6 +49,7 @@
     39.Read two numbers. If both numbers are even then display their sum else display their product.
     40.Read a character and check if the character is a vowel or a consonant.
     41.Read two numbers and a Boolean value. For Boolean true display the area and perimeter of a rectangle assuming the two numbers are the length and width. For a Boolean false calculate and display the surface area and volume of a cylinder assuming the parameters as height and radius of the cylinder.
+    42.Read two numbers and a character. If the character is ‘a’ check if the numbers are equal. If the character is ‘M’ check if the first number is divisible by 9. Otherwise find the product.
 
 # Status
 | Questions | QBasic | Java | Python | Rust | C | C++ | C# | Go | Haskell |
@@ -94,3 +95,4 @@
 |39.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |40.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |41.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|42.| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
