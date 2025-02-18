@@ -52,7 +52,7 @@
     42.Read two numbers and a character. If the character is ‘a’ check if the numbers are equal. If the character is ‘M’ check if the first number is divisible by 9. Otherwise find the product.
 
 # Status
-| Questions | QBasic | Java | Python | Rust | C | C++ | C# | Go | Haskell |
+| Questions | QBasic <br> (discontinued) | Java | Python | Rust | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) | Go <br> (planned) | Haskell <br> (planned) |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
