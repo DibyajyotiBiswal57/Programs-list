@@ -16,7 +16,7 @@
     14.Print numbers from (user defined number) to 1 in descending order.
     15.Print multiplication table up to 12 of given number.
     16.Accept a 3-digit number and print the sum of the first and second number and the product of first and last number.
-    17.Print a number in the reverse order.
+    17.Print a 3 digit number in the reverse order.
     18.Accept any range of m and n and print all the odd numbers between them. 
     19.Accept any number and check if it is even or odd.
     20.Accept any number and print whether the number is a prime number or not.
@@ -69,8 +69,8 @@
 |13.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |14.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |15.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|16.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|17.| ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|16.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|17.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |18.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |19.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |20.| ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
