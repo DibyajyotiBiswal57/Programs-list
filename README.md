@@ -53,7 +53,7 @@
 
 # Status
 
-| Questions | QBasic <br> (discontinued) | Java | Python | Rust | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) | Go <br> (planned) | Haskell <br> (planned) |
+| Questions | QBasic <br> (discontinued) | Java | Python | Rust <br> (planned) | C | C++ | C# <br> (planned) | Go <br> (planned) | Haskell <br> (planned) |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
