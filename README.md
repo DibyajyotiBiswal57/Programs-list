@@ -50,6 +50,14 @@
     40.Read a character and check if the character is a vowel or a consonant.
     41.Read two numbers and a Boolean value. For Boolean true display the area and perimeter of a rectangle assuming the two numbers are the length and width. For a Boolean false calculate and display the surface area and volume of a cylinder assuming the parameters as height and radius of the cylinder.
     42.Read two numbers and a character. If the character is ‘a’ check if the numbers are equal. If the character is ‘M’ check if the first number is divisible by 9. Otherwise find the product.
+    43.Check if a string is a palindrome or not.
+    44.Count the number of vowels in a string.
+    45.Read a line, then count words and display the total number of words in the given line.
+    46.Convert temperature from celsius to fahrenheit.
+    47.Convert dollars to rupee with current conveersion rate (take from internet).
+    48.Check if a character is uppercase or lowercase.
+    49.Add odd numbers upto a given value.
+    
 
 # Status
 
@@ -97,3 +105,11 @@
 |40.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |41.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |42.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|42.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|43.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|44.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|45.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|46.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|47.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|48.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|49.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
