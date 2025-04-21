@@ -59,9 +59,8 @@
     49.Add odd numbers upto a given value.
     50. Calculate the BMI(Body Mass Index) of a person.
     51. Input a value in kilometres and convert it into miles.
-    52. Enter a small poem or poem verse and print it.
-    53. Input 3 numbers and swap them as this : 1st number becomes 2nd number and 2nd number becomes the 3rd number and 3rd number becomes the 1st number.
-    54. Input the total liabilities and shareholders’ equity of a company and print its D/E ratio.
+    52. Input 3 numbers and swap them as this : 1st number becomes 2nd number and 2nd number becomes the 3rd number and 3rd number becomes the 1st number.
+    53. Input the total liabilities and shareholders’ equity of a company and print its D/E ratio.
 
 
 # Status
@@ -119,7 +118,6 @@
 |48.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |49.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |50.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|51.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|52.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|51.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|52.|    | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |53.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|54.|    | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
