@@ -57,7 +57,7 @@
     47.Convert dollars to rupee with current conveersion rate (take from internet).
     48.Check if a character is uppercase or lowercase.
     49.Add odd numbers upto a given value.
-    50. Calculate the BMI(Body Mass Index) of a person -The formula is BMI=kg/m2.
+    50. Calculate the BMI(Body Mass Index) of a person.
     51. Input a value in kilometres and convert it into miles.
     52. Enter a small poem or poem verse and print it.
     53. Input 3 numbers and swap them as this : 1st number becomes 2nd number and 2nd number becomes the 3rd number and 3rd number becomes the 1st number.
