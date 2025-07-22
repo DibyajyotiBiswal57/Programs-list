@@ -65,7 +65,7 @@
 
 # Status
 
-| Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | Rust <br> (planned) | C <br> (coming <br> soon) | C++ <br> (coming <br> soon) | C# <br> (planned) |
+| Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | Rust <br> (planned) | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |01.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |02.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
