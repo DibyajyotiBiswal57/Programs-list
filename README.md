@@ -65,7 +65,6 @@
 
 # Status
 
-<<<<<<< Updated upstream
 | Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | Rust <br> (planned) | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |01.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
