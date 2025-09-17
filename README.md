@@ -61,6 +61,17 @@
     51. Input a value in kilometres and convert it into miles.
     52. Input 3 numbers and swap them as this : 1st number becomes 2nd number and 2nd number becomes the 3rd number and 3rd number becomes the 1st number.
     53. Input the total liabilities and shareholders’ equity of a company and print its D/E ratio.
+    54. Print numbers from 1 to 10 using a while loop.
+    55. Print even numbers between 1 and 20.
+    56. Use a while loop to find the sum of the first 5 natural numbers.
+    57. Print numbers from 1 to 10, but skip 5 using continue.
+    58. Take input from the user repeatedly until they type "exit".
+    59. Print numbers from 1 to 10, but stop when number is 7 using break.
+    60. Check if a number is prime using a while loop.
+    61. Create a simple menu (looped) that exits when the user selects “Quit”.
+    62. Count the number of digits in a number using while.
+    63. Reverse a number using a while loop.
+    64. Use pass in a while loop where nothing should happen when i == 2.
 
 
 # Status
@@ -120,3 +131,12 @@
 |51.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |52.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |53.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|54.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|55.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|56.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|57.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|58.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|59.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|60.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|61.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|62.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
