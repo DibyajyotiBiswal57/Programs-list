@@ -87,8 +87,8 @@
 
 # Status
 
-| Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | JS <br> (planned) | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) |
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |01.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |02.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |03.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -157,4 +157,4 @@
 |66.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |67.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |68.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|69.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|69.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ |
