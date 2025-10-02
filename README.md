@@ -114,7 +114,9 @@
     6666
     6666
     77. Write a program to print the Fibonacci sequence until the term specified by the user.
-    78. 
+    78. Write a program to add odd and even numbers until a number inputted by the user.
+    79. Write a program to check whether a character is uppercase or lowercase.
+    80. Write a program to calculate a program using return.
 
 # Status
 
@@ -189,3 +191,14 @@
 |67.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
 |68.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
 |69.|N/A| ❌ | ✅ | ❌ | ❌ | ❌ |
+|70.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|71.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|72.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|73.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|74.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|75.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|76.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|77.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|78.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|79.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
+|80.|N/A| ❌ | ❌ | ❌ | ❌ | ❌ |
