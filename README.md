@@ -80,7 +80,7 @@
     ● <50: Fail
     67. Write a Python program to print all even numbers from 1 to 100 using a while loop.
     68. Write a program to calculate the factorial of a number using a while loop.
-    70. Create a menu-driven program:
+    69. Create a menu-driven program:
     Find Square
     Find Cube
     Exit
