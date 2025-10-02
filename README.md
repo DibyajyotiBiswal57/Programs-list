@@ -84,17 +84,48 @@
     Find Square
     Find Cube
     Exit
+    70. Write a program to start a countdown from the number inputted by the user.
+    71. Write a program calculating exponentials using a for loop.
+    72. Write a program to accept the number of rows and print the following:
+    Eg. (No of rows: 5)
+    12345
+    1234
+    123
+    12
+    1
+    73. Write a program to accept the number of rows and print the following:
+    Eg. (No of rows: 5)
+    11111
+    1111
+    111
+    11
+    1
+    74. Write a program to accept the number of rows and print the following:
+    Eg. (No of rows: 5)
+    54321
+    4321
+    321
+    21
+    1
+    75. Write a program to check whether a number is an Armstrong number.
+    76. Write a program to accept the number of rows and print the following pattern:
+    Eg. (No of rows: 3)
+    6666
+    6666
+    6666
+    77. Write a program to print the Fibonacci sequence until the term specified by the user.
+    78. 
 
 # Status
 
 | Questions | QBasic <br> (discontinued) | Java <br> (paused) | Python | C <br> (planned) | C++ <br> (planned) | C# <br> (planned) |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|01.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-|02.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-|03.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-|04.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-|05.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-|06.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|01. | ✅  | ✅ | ✅  | ❌  | ❌  | ❌ |
+|02. | ✅  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|03. | ✅  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|04. | ✅  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|05. | ✅  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|06. | ✅  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |07.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |08.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |09.| ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
